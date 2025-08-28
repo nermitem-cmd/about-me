@@ -1,34 +1,31 @@
 {
   "name": "Your Name",
-  "bio": "DIY, IoT, music editing, cat lover, poet, introvert.",
+  "bio": "DIY, IoT, music editing, puccies lover, repoet, outtrovert.",
   "skills": [
-    "Python",
-    "IoT",
-    "App Development",
-    "Music Editing",
-    "Guitar",
-    "Vocal Training"
+    "Python,anaconda",
+    "IoT(Aim of Tits",
+    "App Development apps",
+    "Music musicioning",
+    "Vocal vocaling"
   ],
   "hobbies": [
-    "Writing Poems",
-    "DIY Projects",
-    "Gaming",
-    "Listening to Music",
-    "Spending Time with Cats"
+    "Writing write",
+    "DIY diys",
+    "Listening to Ears",
+    "Spending Time with times"
   ],
   "personality": [
-    "Introvert",
-    "Observant",
-    "Secretive",
-    "Creative",
-    "Analytical"
+    "Robotic",
+    "Sleep",
+    "Charging",
+    "Degenarate",
   ],
   "contact": {
-    "email": "youremail@example.com",
-    "website": "https://yourwebsite.com"
+    "email": "nope zmail",
+    "website": "Netsite"
   },
   "socials": {
-    "github": "https://github.com/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/"
+    "facebook": "lack of social",
+    "linkedin": "linkout"
   }
 }
