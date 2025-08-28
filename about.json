@@ -1,5 +1,34 @@
 {
-"Dev": ["Nusak", "Unknown", "Guess"]
-Bio : None
-Skills :None 
+  "name": "Your Name",
+  "bio": "DIY, IoT, music editing, cat lover, poet, introvert.",
+  "skills": [
+    "Python",
+    "IoT",
+    "App Development",
+    "Music Editing",
+    "Guitar",
+    "Vocal Training"
+  ],
+  "hobbies": [
+    "Writing Poems",
+    "DIY Projects",
+    "Gaming",
+    "Listening to Music",
+    "Spending Time with Cats"
+  ],
+  "personality": [
+    "Introvert",
+    "Observant",
+    "Secretive",
+    "Creative",
+    "Analytical"
+  ],
+  "contact": {
+    "email": "youremail@example.com",
+    "website": "https://yourwebsite.com"
+  },
+  "socials": {
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://www.linkedin.com/in/yourusername/"
+  }
 }
