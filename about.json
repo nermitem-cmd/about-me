@@ -1,28 +1,17 @@
 {
-  "name": "Your Name",
-  "bio": "DIY, IoT, music editing, puccies lover, repoet, outtrovert.",
+  "name": [
+  "Unknown",
+    "Guess"
+  ],
+  "bio": "Write your bio here",
   "skills": [
-    "Python,anaconda",
-    "IoT(Aim of Tits",
-    "App Development apps",
-    "Music musicioning",
-    "Vocal vocaling"
-  ],
-  "hobbies": [
-    "Writing write",
-    "DIY diys",
-    "Listening to Ears",
-    "Spending Time with times"
-  ],
-  "personality": [
-    "Robotic",
-    "Sleep",
-    "Charging",
-    "Degenarate"
+    "Python",
+    "Anaconda",
+    "Cobra"
   ],
   "contact": {
     "email": "nope zmail",
-    "website": "Netsite"
+    "website"": ""Netsite""
   },
   "socials": {
     "facebook": "lack of social",
